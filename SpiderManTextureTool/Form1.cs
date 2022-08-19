@@ -64,7 +64,7 @@ namespace SpiderManTextureTool
             var textureFormat = textureFormatCmb.SelectedItem.ToString()?.ToLower() ?? "bc7";
             var offset = 0x0;
 
-            //foreach(var a in File.ReadLines(texturePathTxt.Text))
+            //foreach (var a in File.ReadLines(texturePathTxt.Text))
             //    if (a.Contains("Texture") || a.Contains("Built") || a.Contains("File"))
             //    {
             //        MessageBox.Show("Has Header");

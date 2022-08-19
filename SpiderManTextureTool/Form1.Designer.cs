@@ -268,7 +268,8 @@
             this.convertToDDSBtn.Size = new System.Drawing.Size(75, 23);
             this.convertToDDSBtn.TabIndex = 1;
             this.convertToDDSBtn.Text = "Convert";
-            this.toolTip.SetToolTip(this.convertToDDSBtn, "Convert .texture file to .dds, Recommended params: BC7 and Auto Size ");
+            this.toolTip.SetToolTip(this.convertToDDSBtn, "Convert .texture file to .dds, Play around with the format options if you get fun" +
+        "ky results");
             this.convertToDDSBtn.UseVisualStyleBackColor = true;
             this.convertToDDSBtn.Click += new System.EventHandler(this.convertToDDSBtn_Click);
             // 
