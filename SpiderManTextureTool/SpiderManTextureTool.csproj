@@ -11,6 +11,10 @@
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
 	  <GenerateDependencyFile>false</GenerateDependencyFile>
 	  <PublishSingleFile>true</PublishSingleFile>
+	  <Version>1.2</Version>
+	  <Authors>Leon</Authors>
+	  <Company>Leon</Company>
+	  <Description>Texture tool for Marvel's Spider Man Remastered PC</Description>
   </PropertyGroup>
 
   <ItemGroup>
