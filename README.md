@@ -36,7 +36,7 @@ In **Batch Mode** only folders can be selected. If **Non-local** option is selec
 
 # General Tips:
 
-1. Try to convert _your_ **.texture** files back to **.dds** to check if the convertion was trully successful.
+1. Try to convert _your_ **.texture** files back to **.dds** to check if the conversion was truly successful.
 2. Make sure to not mix up the paths.
 3. If one of the conversion formats where successful (e.g BC7) use the same format in the Photoshop plugin to save them.
 
